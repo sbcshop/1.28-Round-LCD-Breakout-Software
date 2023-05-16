@@ -97,4 +97,25 @@ Draws a rectangle from (x, y) with corresponding dimensions
 
 Fill a rectangle starting from (x, y) coordinates
 
-## Resources 
+## Resources
+  * [1.28-Round-LCD-Breakout Schematic](https://github.com/sbcshop/1.28-Round-LCD-Breakout-Hardware/blob/main/Design%20Data/SCH%201.28inch%20ROUND%20LCD%20BREAKOUT.pdf)
+  * [1.28-Round-LCD-Breakout Hardware](https://github.com/sbcshop/1.28-Round-LCD-Breakout-Hardware)
+  * [1.28-Round-LCD-Breakout Step File](https://github.com/sbcshop/1.28-Round-LCD-Breakout-Hardware/blob/main/Mechanical%20Data/STEP%20ROUND%20DISPLAY%20BREAKOUT.step)
+  * [Datasheet]()
+
+
+## Related Products
+   * []() - EnkPi with 2.9" E-paper display size
+   * []() - EnkPi with 4.2" E-paper display size
+   * []() - EnkPi with 7.5" E-paper display size
+   * []() - Universal E-paper Pico HAT to connect epaper display like 2.9", 4.2", 5.83" & 7.5"  
+
+ 
+## Product License
+
+This is ***open source*** product. Kindly check LICENSE.md file for more information.
+
+Please contact support@sb-components.co.uk for technical support.
+<p align="center">
+  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=300">
+</p>
