@@ -101,14 +101,22 @@ Fill a rectangle starting from (x, y) coordinates
   * [1.28-Round-LCD-Breakout Schematic](https://github.com/sbcshop/1.28-Round-LCD-Breakout-Hardware/blob/main/Design%20Data/SCH%201.28inch%20ROUND%20LCD%20BREAKOUT.pdf)
   * [1.28-Round-LCD-Breakout Hardware](https://github.com/sbcshop/1.28-Round-LCD-Breakout-Hardware)
   * [1.28-Round-LCD-Breakout Step File](https://github.com/sbcshop/1.28-Round-LCD-Breakout-Hardware/blob/main/Mechanical%20Data/STEP%20ROUND%20DISPLAY%20BREAKOUT.step)
-  * [Datasheet]()
+  * [GC9A01 Datasheet](https://github.com/sbcshop/1.28-Round-LCD-Breakout-Software/blob/main/Documents/GC9A01A%20Datasheet.pdf)
 
 
 ## Related Products
-   * []() - EnkPi with 2.9" E-paper display size
-   * []() - EnkPi with 4.2" E-paper display size
-   * []() - EnkPi with 7.5" E-paper display size
-   * []() - Universal E-paper Pico HAT to connect epaper display like 2.9", 4.2", 5.83" & 7.5"  
+
+   * [1.54" LCD Breakout](https://shop.sb-components.co.uk/products/1-54-lcd-breakout?_pos=3&_sid=fd594d9e8&_ss=r) - The 1.54 TFT LCD breakout is colorful and easy to experiment with graphics. The display is of 240x240 resolution and 65k RGB colors to create a colorful user interface for your project. 
+   
+     ![1.54" LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01.2.png?v=1677136550&width=300)
+   
+   * [1.3" LCD Breakout](https://shop.sb-components.co.uk/products/1-3-lcd-breakout?_pos=4&_sid=4a275fa92&_ss=r) - 
+   
+     ![1.3" LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_1_a486ba53-c02b-4491-b110-a9b64736ad39.png?v=1677241189&width=300)
+     
+   * [1.14" LCD Breakout](https://shop.sb-components.co.uk/products/1-14-inch-lcd-breakout?_pos=4&_sid=fd594d9e8&_ss=r) - 
+   
+     ![1.3" LCD Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/1.14InchLCDBreakout.png?v=1622801461&width=300)
 
  
 ## Product License
